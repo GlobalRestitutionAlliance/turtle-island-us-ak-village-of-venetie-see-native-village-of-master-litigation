@@ -1,6 +1,6 @@
 # US AK VILLAGE OF VENETIE SEE NATIVE VILLAGE OF - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
